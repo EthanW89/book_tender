@@ -9,3 +9,5 @@ $(document).on("keyup", function (e) {
         $("#hidden_div").hide();
     }
 });
+
+// keyup keydown functions for the #hidden_div//
