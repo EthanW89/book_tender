@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+}
+
+.site_name {
+  /*font-family: 'Cinzel', serif;*/
+  /*font-family: 'EB Garamond', serif;*/
+  font-family: 'Slabo 27px', serif;
+  /* font-family: 'Barrio', cursive; */
+  font-weight: 10px;
+  margin: 0 auto;
+  margin-top: 20%;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+
+
+
+.copy_print {
+  margin: 0 auto;
+  color: white;
+  margin-left: 30%;
+  margin-right: 30%;
+}
